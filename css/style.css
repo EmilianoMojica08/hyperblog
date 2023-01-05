@@ -9,6 +9,14 @@ P {color:red;
    letter-spacing:5px;
    text-decoration:underline;
    text-transform:capitalize;
-   text-align:left;
+   text-align:center;
    text-indent:30px;
+  }
+
+  #container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD
+
   }
